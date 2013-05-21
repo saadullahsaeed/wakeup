@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 config/config.json
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+>>>>>>> 3e260af22110a80338dbea36ff0ef34942d44fbc
