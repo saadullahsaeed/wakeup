@@ -1,0 +1,12 @@
+{
+  "account": {
+  	"sid": "TWILIO_ACCOUNT_SID",
+  	"token": "TWILIO_ACCOUNT_TOKEN",
+  	"from_number": "+1xxxxxxxxxx"
+  },
+  "wakeup": {
+  	"number": "+1xxxxxxxxxx",
+  	"exclude": ["Sunday", "Saturday"],
+  	"time": "07:30"
+  }
+}

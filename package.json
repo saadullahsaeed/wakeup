@@ -1,0 +1,12 @@
+{
+  "name": "wakeup",
+  "description": "Wakes you up!!",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "twilio": "1.1.0",
+    "cron": "1.0.1",
+    "express": "3.x",
+    "moment": "2.0.0"
+  }
+}
